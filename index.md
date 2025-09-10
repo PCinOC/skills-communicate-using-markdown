@@ -7,3 +7,7 @@
 
 
 ![What-are-Scrum-Ceremonies-Why-is-it-Required-1068x552-1.jpg](https://github.com/PCinOC/skills-communicate-using-markdown/blob/main/What-are-Scrum-Ceremonies-Why-is-it-Required-1068x552-1.jpg)
+
+``` javascript
+var myVAR - "Hello, world!"
+```
